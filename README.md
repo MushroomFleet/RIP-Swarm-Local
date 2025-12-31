@@ -7,7 +7,7 @@ An AI coordination system implementing **stigmergic architecture** for parallel 
 Choose your preferred deployment method:
 
 ### Option 1: Portable Windows Executable (Recommended for beginners)
-Download the latest release from the **[Releases](https://github.com/MushroomFleet/Hybrid-Swarm-Local/releases)** section
+Download the latest release from the **[Releases](https://github.com/MushroomFleet/RIP-Swarm-Local/releases)** section
 
 - 💻 **Portable exe** - no installation required, just download and run
 - ✨ **Only requires OpenRouter.ai API key** - no complex setup needed
